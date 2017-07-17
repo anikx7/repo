@@ -1,0 +1,50 @@
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 14:41:41 CDT 2017
+Description : Unknown service 'splicedaemon' died
+Node        : localhost.localdomain
+Process     : SuperChat <2057>
+Thread      : ServiceManager 7f43c9f46700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/serviceMonitor.c/66/0/1500147701.994037371
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 14:41:41 CDT 2017
+Description : Splice-daemon failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 12.782512196 s.
+Node        : localhost.localdomain
+Process     : SuperChat <2057>
+Thread      : OSPL Lease Renew Thread 7f43c4f8b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/spliced.c/153/0/1500147701.994301724
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 14:41:41 CDT 2017
+Description : Durability failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 12.177294322 s.
+Node        : localhost.localdomain
+Process     : SuperChat <2057>
+Thread      : leaseThread 7f43c4cfc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/Durability Service/d_durability.c/182/0/1500147701.995318016
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 15:24:04 CDT 2017
+Description : rtps_init: failed to find a free participant index for domain 0
+
+Node        : localhost.localdomain
+Process     : SuperChat <3983>
+Thread      : ddsi2 7f36f3748700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_init.c/540/0/1500150244.465508970
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 15:24:10 CDT 2017
+Description : rtps_init: failed to find a free participant index for domain 0
+
+Node        : localhost.localdomain
+Process     : SuperChat <4010>
+Thread      : ddsi2 7f370d6b0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_init.c/540/0/1500150250.993067389
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 15 21:00:13 CDT 2017
+Description : Unknown service 'splicedaemon' died
+Node        : localhost.localdomain
+Process     : SuperChat <2175>
+Thread      : ServiceManager 7f2110268700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/serviceMonitor.c/66/0/1500170413.967998952

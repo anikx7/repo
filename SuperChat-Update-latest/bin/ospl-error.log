@@ -1,0 +1,90 @@
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:21 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989701.573875813
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:21 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989701.575793266
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989702.761771807
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989702.767776263
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989702.773392713
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:51 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989731.573854513
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:51 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989731.575839082
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:52 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989732.761858425
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:52 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989732.767896748
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 13 18:48:52 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : HP-Pavilion-17-Notebook-PC
+Process     : SuperChat <10102>
+Thread      : tev 7fa68897a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1499989732.773425346
